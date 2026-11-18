@@ -67,7 +67,7 @@ contacts:
   - { label: "GitHub",       icon: "icon-github.png",       handle: "AliciaFrancoMartinez",             url: "https://github.com/AliciaFrancoMartinez" }
   - { label: "ORCID",        icon: "icon-orcid.png",        handle: "0000-0002-9710-1240",              url: "https://orcid.org/0000-0002-9710-1240" }
   - { label: "Website",      label_es: "Web", icon: "icon-web.png",  handle: "NeverEnding website", handle_es: "Web NeverEnding",
-      url: "https://aliciafrancomartinez.github.io/neverendingweb/", url_es: "https://aliciafrancomartinez.github.io/neverendingweb/es/" }
+      url: "https://aliciafrancomartinez.github.io/", url_es: "https://aliciafrancomartinez.github.io/es/" }
 
 # Orden de las secciones (cada nombre corresponde a un archivo .yml de esta carpeta).
 # Para quitar una sección del CV, bórrala de esta lista (o ponle un # delante).
