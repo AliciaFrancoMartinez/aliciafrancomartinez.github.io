@@ -11,6 +11,18 @@ title: "Dissemination & Community"
 title_es: "Divulgación y comunidad"
 
 entries:
+  - date: "since 2026"
+    title: "Executive Board Member <small>Society for the Improvement of Psychological Science (SIPS)</small>"
+    title_es: "Miembro del Comité Ejecutivo <small>Society for the Improvement of Psychological Science (SIPS)</small>"
+    lines:
+      - "Member of the Executive Board of SIPS, the international society that promotes open, rigorous and reproducible psychological science."
+    lines_es:
+      - "Miembro del comité ejecutivo (*Executive Board*) de SIPS, la sociedad internacional que impulsa una ciencia psicológica abierta, rigurosa y reproducible."
+    links:
+      - { label: "SIPS Executive Board", label_es: "Comité ejecutivo de SIPS", url: "https://improvingpsych.org/board/" }
+    short: "Executive Board Member of the Society for the Improvement of Psychological Science (SIPS)."
+    short_es: "Miembro del Comité Ejecutivo de la Society for the Improvement of Psychological Science (SIPS)."
+
   - date: "2025"
     title: "“Psicometries” project - Season 3: *Pacience for Science*"
     title_es: "Proyecto “Psicometríes” - Temporada 3: *Paciencia Pa’ La Ciencia*"
